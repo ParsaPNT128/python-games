@@ -1,0 +1,4 @@
+{"fname": "1player",
+"status": "active",
+"nplayers": 1,
+"player1": 11}
